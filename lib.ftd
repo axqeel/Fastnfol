@@ -21,7 +21,7 @@ children c:
 -- ftd.column:
 width: fill-container
 types: $holy-angel-typography.types
-colors: $fastn-cs-tail.main
+colors: $winter-cs.main
 background.linear-gradient: $lg
 
 -- ftd.column:
