@@ -1,5 +1,6 @@
 -- import: sarvom.github.io/holy-angel-typography 
 -- import: shaheen-senpai.github.io/fastn-cs-tail
+-- import: fastn-community.github.io/winter-cs
 
 
 -- component page:
@@ -21,7 +22,7 @@ children c:
 -- ftd.column:
 width: fill-container
 types: $holy-angel-typography.types
-colors: $fastn-cs-tail.main
+colors: $winter-cs.main
 background.linear-gradient: $lg
 
 -- ftd.column:
