@@ -15,10 +15,10 @@ cta-text-2-url: index.html
 cta-text-3-url: index.html
 
 -- hero-1.hero-1: I'm Aqeel Mohamed!
-cta-button-1: Resume
-link-1: https://www.resume.com/
-cta-button-2: Schedule Meeting
-link-2: https://calendly.com/
+cta-button-1: LinkedIn
+link-1: https://www.linkedin.com/in/aqeel-mohamed-ansher-94b692284/
+cta-button-2: Instagram
+link-2: https://instagram.com/axqeel
 cover: $assets.files.assets/IMG.jpg
 
 I am learning FASTN
